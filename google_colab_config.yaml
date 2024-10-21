@@ -1,0 +1,11 @@
+path: '/content/gdrive/My Drive/ComputerVisionScience/dataset_frames/' #dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: facemask
+  1: scissor
+  2: perfume
+  3: calculator
+  4: remote key
